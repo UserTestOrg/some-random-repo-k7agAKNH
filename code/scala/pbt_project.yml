@@ -3,15 +3,78 @@ description: bi-directional
 version: 0.0.1-SNAPSHOT
 author: qz2uchdd.q1szdznj@jpyxjbtx.com
 language: scala
-buildSystem: maven
-pipelines: {}
+buildSystem: ''
+buildSystemDetails:
+  artefactID: bennettschulist
+  parentArtefactID: team1729806914805
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 21:55:29'
+pipelines:
+  pipelines/W1:
+    name: W1
+    description: Really solid info
+    author: m7azp8bi.kmqbonib@p2s84jmw.com
+    mode: batch
+    artefactID: ''
+    language: scala
+    createdAt: '2024-10-24 21:55:30'
+    datasets:
+      inputs: []
+      outputs: []
+    subgraphs: []
+    dependencies: {}
 datasets: {}
 templates: {}
-jobs: {}
-libraries: []
+jobs:
+  jobs/Lu_CorwinBraxton_HicksSyreeta_Jacobi:
+    name: Lu_CorwinBraxton_HicksSyreeta_Jacobi
+    description: Really solid info
+    fabricUID: null
+    scheduler: null
+    cloudProvider: null
+    jobSize: null
+    scheduleCron: null
+    timeout: null
+    alerting:
+      emails: ''
+      onStart: false
+      onSuccess: false
+      onFailure: false
+    pipelines: []
+    jobClusterMode:
+      clusterMode:
+        Single: {}
+      clusterId: null
+    enabled: null
+    createdAt: '2024-10-24 21:55:30'
+    author: m7azp8bi.kmqbonib@p2s84jmw.com
+    models: []
+    sqlProjects: []
+gemContainer:
+  languageVersion: 2.12.15
+  gemLibsVersion: 1.1.26
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 21:55:29'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
 subgraphs: {}
 sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
 sqlPipeline: null
 dependencies: '[]'
 projectDependencies: {}
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
 pipelineConfigurations: {}
