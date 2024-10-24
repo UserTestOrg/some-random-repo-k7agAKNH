@@ -1,0 +1,17 @@
+name: caleb.okeefe
+description: upward-trending
+version: 0.0.1-SNAPSHOT
+author: 7nwjdter.a7g1u4le@fyyo5jgh.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

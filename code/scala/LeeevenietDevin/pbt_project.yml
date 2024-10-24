@@ -1,0 +1,17 @@
+name: stanford.grimes
+description: client-driven
+version: 0.0.1-SNAPSHOT
+author: 1eqsjz7c.vqbhlvt0@ritnjsot.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

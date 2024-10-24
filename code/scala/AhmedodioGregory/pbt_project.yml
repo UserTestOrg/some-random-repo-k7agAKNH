@@ -1,0 +1,17 @@
+name: malcom.kshlerin
+description: system engine
+version: 0.0.1-SNAPSHOT
+author: xmtaghkw.m5eqo6t8@n86mnd9u.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

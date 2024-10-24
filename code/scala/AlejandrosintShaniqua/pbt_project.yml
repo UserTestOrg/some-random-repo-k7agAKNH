@@ -1,0 +1,17 @@
+name: vicenta.gleichner
+description: Inverse
+version: 0.0.1-SNAPSHOT
+author: zl3fcey7.zx5tkn3o@gblrubrg.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

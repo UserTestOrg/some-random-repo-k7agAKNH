@@ -1,0 +1,28 @@
+name: beatrice.denesik
+description: Sharable
+version: 0.0.1
+author: b3n6s76a.fylz5a78@yiwhdfqi.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Ms__Camilla_SwiftCarrie_A__TuneFrank_Bauch:
+    name: Ms__Camilla_SwiftCarrie_A__TuneFrank_Bauch
+    description: null
+    author: b3n6s76a.fylz5a78@yiwhdfqi.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-09 09:03:50'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

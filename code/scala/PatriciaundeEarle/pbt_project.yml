@@ -1,0 +1,17 @@
+name: quincy.murazik
+description: Customer-focused
+version: 0.0.1-SNAPSHOT
+author: emdxosh1.ywyfxn6y@vgxjzeue.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

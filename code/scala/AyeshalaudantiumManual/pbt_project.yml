@@ -1,0 +1,28 @@
+name: tyson.herman
+description: clear-thinking
+version: 0.0.1
+author: ur2wnbmk.upst4wmx@qoqzzgqb.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Miss_Carl_WillFaye_KinnittDarrin_Bins:
+    name: Miss_Carl_WillFaye_KinnittDarrin_Bins
+    description: null
+    author: ur2wnbmk.upst4wmx@qoqzzgqb.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 12:13:17'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

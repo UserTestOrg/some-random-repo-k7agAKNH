@@ -1,0 +1,28 @@
+name: alisia.pagac
+description: Cross-group
+version: 0.0.1
+author: 1qzvm7nd.krjxt2tt@xk0wlcfk.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Alexandria_Gislason_IIILeo_TarredMs__Scot_Huels:
+    name: Alexandria_Gislason_IIILeo_TarredMs__Scot_Huels
+    description: null
+    author: 1qzvm7nd.krjxt2tt@xk0wlcfk.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 15:59:48'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

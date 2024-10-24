@@ -1,0 +1,17 @@
+name: laurene.lemke
+description: Object-based
+version: 0.0.1-SNAPSHOT
+author: 4yqfe1kt.kdo1dp3m@hdo5kxyl.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

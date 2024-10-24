@@ -1,0 +1,17 @@
+name: margot.cassin
+description: holistic
+version: 0.0.1-SNAPSHOT
+author: pofm7qcr.rn7bxiqp@q5gngwkf.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

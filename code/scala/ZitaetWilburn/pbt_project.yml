@@ -1,0 +1,17 @@
+name: ian.borer
+description: data-warehouse
+version: 0.0.1-SNAPSHOT
+author: qgivjzl9.q9nahxuv@ly7tvrfj.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

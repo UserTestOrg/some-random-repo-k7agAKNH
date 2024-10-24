@@ -1,0 +1,17 @@
+name: myong.mills
+description: Automated
+version: 0.0.1-SNAPSHOT
+author: iy6jnhga.ttyo6dse@uivfhjov.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,28 @@
+name: cassidy.okuneva
+description: Automated
+version: 0.0.1
+author: nj5ki6tm.wtns5c9h@2cfuemsd.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Shayne_AltenwerthPat_PendingMr__Waldo_Tremblay:
+    name: Shayne_AltenwerthPat_PendingMr__Waldo_Tremblay
+    description: null
+    author: nj5ki6tm.wtns5c9h@2cfuemsd.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 15:13:43'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

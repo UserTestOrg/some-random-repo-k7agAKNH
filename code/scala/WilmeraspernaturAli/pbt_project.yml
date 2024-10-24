@@ -1,0 +1,17 @@
+name: chung.spinka
+description: Compatible
+version: 0.0.1-SNAPSHOT
+author: fkzz62db.lyhhefjk@iopuvzhz.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

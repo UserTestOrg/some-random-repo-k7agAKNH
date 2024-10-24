@@ -1,0 +1,28 @@
+name: craig.trantow
+description: data-warehouse
+version: 0.0.1
+author: e4tj0cqh.3rkmiqpp@j5e2v4xy.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Mr__Leatha_SipesFaye_KinnittMrs__Amira_Herzog:
+    name: Mr__Leatha_SipesFaye_KinnittMrs__Amira_Herzog
+    description: null
+    author: e4tj0cqh.3rkmiqpp@j5e2v4xy.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 05:18:22'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

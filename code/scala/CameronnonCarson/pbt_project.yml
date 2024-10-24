@@ -1,0 +1,17 @@
+name: isabell.murray
+description: complexity
+version: 0.0.1-SNAPSHOT
+author: qgbr4yyl.m4esghh3@ftoz8bts.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: donnell.purdy
+description: Monitored
+version: 0.0.1-SNAPSHOT
+author: pstjuep7.946tsike@cjsjjbnm.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

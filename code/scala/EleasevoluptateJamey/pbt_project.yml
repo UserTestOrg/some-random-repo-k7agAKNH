@@ -1,0 +1,28 @@
+name: bradley.gutkowski
+description: Robust
+version: 0.0.1
+author: qtoifflq.qenr6hxl@cj8o3a3m.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Page_Johnson_IBen_DoverPatrina_Spencer_Jr_:
+    name: Page_Johnson_IBen_DoverPatrina_Spencer_Jr_
+    description: null
+    author: qtoifflq.qenr6hxl@cj8o3a3m.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-04 12:28:11'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

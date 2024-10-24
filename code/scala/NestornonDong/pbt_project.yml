@@ -1,0 +1,17 @@
+name: maurice.stanton
+description: Seamless
+version: 0.0.1-SNAPSHOT
+author: l8ojlknv.wnhulc31@lssrssxi.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

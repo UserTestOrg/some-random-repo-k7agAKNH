@@ -1,0 +1,17 @@
+name: micah.pacocha
+description: Profit-focused
+version: 0.0.1-SNAPSHOT
+author: 92sg59dq.uclwa9pm@5fnf9qld.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

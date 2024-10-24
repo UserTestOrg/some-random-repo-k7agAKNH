@@ -1,0 +1,17 @@
+name: danny.ruecker
+description: asymmetric
+version: 0.0.1-SNAPSHOT
+author: l4tqgz7z.cqrehrlp@qgdc5mrv.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

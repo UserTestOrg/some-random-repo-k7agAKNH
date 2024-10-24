@@ -1,0 +1,17 @@
+name: gail.homenick
+description: secondary
+version: 0.0.1-SNAPSHOT
+author: 0aspszll.ftcvfbj3@557fonqy.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

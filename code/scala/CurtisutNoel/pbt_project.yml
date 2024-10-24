@@ -1,0 +1,28 @@
+name: ardith.grimes
+description: Phased
+version: 0.0.1
+author: mdku2ym4.kax4ba7u@xndzbduo.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Mrs__Chanell_JacobiPhil_A__DelphiaHugo_Jaskolski:
+    name: Mrs__Chanell_JacobiPhil_A__DelphiaHugo_Jaskolski
+    description: null
+    author: mdku2ym4.kax4ba7u@xndzbduo.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-02 11:38:27'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

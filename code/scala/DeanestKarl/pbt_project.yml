@@ -1,0 +1,28 @@
+name: robbie.schimmel
+description: software
+version: 0.0.1
+author: ctnlzk65.k0pw9qep@jjs3lnk5.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Chelsie_OkunevaWalter_MelonArleen_Wiza:
+    name: Chelsie_OkunevaWalter_MelonArleen_Wiza
+    description: null
+    author: ctnlzk65.k0pw9qep@jjs3lnk5.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 12:47:12'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: randy.zieme
+description: 24/7
+version: 0.0.1-SNAPSHOT
+author: jlv3zxlc.wzerx1rs@drsdcmix.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

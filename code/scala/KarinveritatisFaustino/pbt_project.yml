@@ -1,0 +1,17 @@
+name: hans.wuckert
+description: solution-oriented
+version: 0.0.1-SNAPSHOT
+author: vscv7trr.fjkjgskz@dl9c3jfj.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

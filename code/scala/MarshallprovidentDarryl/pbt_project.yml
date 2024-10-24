@@ -1,0 +1,17 @@
+name: jacob.kiehn
+description: Cross-platform
+version: 0.0.1-SNAPSHOT
+author: 9vjzlhpy.1cjsnvbm@8vuzgvkj.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

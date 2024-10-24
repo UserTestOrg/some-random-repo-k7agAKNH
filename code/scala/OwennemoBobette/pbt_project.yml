@@ -1,0 +1,28 @@
+name: granville.doyle
+description: Digitized
+version: 0.0.1
+author: 0bfbuyvz.bjyh75je@ydlmeczz.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Miss_Casie_GoldnerMarsha_DimesNatalia_Yost:
+    name: Miss_Casie_GoldnerMarsha_DimesNatalia_Yost
+    description: null
+    author: 0bfbuyvz.bjyh75je@ydlmeczz.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-04 06:37:17'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

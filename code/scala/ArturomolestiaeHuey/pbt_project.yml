@@ -1,0 +1,28 @@
+name: christian.marks
+description: interface
+version: 0.0.1
+author: fj5csoda.1mqh33aq@vy1p7l9b.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Teri_Borer_Jr_Joy_RiderKathy_Pfeffer:
+    name: Teri_Borer_Jr_Joy_RiderKathy_Pfeffer
+    description: null
+    author: fj5csoda.1mqh33aq@vy1p7l9b.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-27 11:24:23'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

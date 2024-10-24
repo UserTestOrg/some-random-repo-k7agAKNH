@@ -1,0 +1,17 @@
+name: huey.mayer
+description: Reactive
+version: 0.0.1-SNAPSHOT
+author: q5mvlnnc.mqc4zfrx@pp86rsgo.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

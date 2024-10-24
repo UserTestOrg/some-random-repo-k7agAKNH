@@ -1,0 +1,17 @@
+name: andrea.dickinson
+description: Right-sized
+version: 0.0.1-SNAPSHOT
+author: w9x1upvg.obur04qs@7n9db5nv.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

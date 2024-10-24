@@ -1,0 +1,17 @@
+name: andria.emmerich
+description: hardware
+version: 0.0.1-SNAPSHOT
+author: 7870v02u.tnzfxvkq@lq4wwxme.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

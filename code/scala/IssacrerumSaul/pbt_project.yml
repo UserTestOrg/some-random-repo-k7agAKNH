@@ -1,0 +1,28 @@
+name: felicidad.herman
+description: extranet
+version: 0.0.1
+author: yzojdpzi.k3b6vjyc@u93g35e7.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Bee_SchillerFrank_N__SteinEstell_Hammes:
+    name: Bee_SchillerFrank_N__SteinEstell_Hammes
+    description: null
+    author: yzojdpzi.k3b6vjyc@u93g35e7.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 12:21:36'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

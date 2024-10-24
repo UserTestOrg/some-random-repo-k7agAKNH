@@ -1,0 +1,17 @@
+name: shalon.schumm
+description: national
+version: 0.0.1-SNAPSHOT
+author: rfmuxraq.xoimmk8h@xnsy5bxe.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

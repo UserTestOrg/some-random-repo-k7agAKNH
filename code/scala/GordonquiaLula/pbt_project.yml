@@ -1,0 +1,17 @@
+name: bradly.fadel
+description: parallelism
+version: 0.0.1-SNAPSHOT
+author: hxjojeyw.jckfznhv@fbmtba8x.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,28 @@
+name: deandre.rau
+description: analyzing
+version: 0.0.1
+author: pm91f0iu.tbjw2tvw@ihiugbqs.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Kraig_BodeWalter_MelonTommye_Jakubowski:
+    name: Kraig_BodeWalter_MelonTommye_Jakubowski
+    description: null
+    author: pm91f0iu.tbjw2tvw@ihiugbqs.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 05:19:39'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

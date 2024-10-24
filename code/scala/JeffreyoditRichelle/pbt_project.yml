@@ -1,0 +1,28 @@
+name: tiera.rice
+description: service-desk
+version: 0.0.1
+author: iwtidc7g.qmxuog1p@2lytalga.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Eura_LynchBarry_D__HatchettCristen_Barrows_Sr_:
+    name: Eura_LynchBarry_D__HatchettCristen_Barrows_Sr_
+    description: null
+    author: iwtidc7g.qmxuog1p@2lytalga.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 17:59:48'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

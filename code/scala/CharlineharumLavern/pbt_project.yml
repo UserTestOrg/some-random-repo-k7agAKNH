@@ -1,0 +1,17 @@
+name: providencia.jerde
+description: Multi-channelled
+version: 0.0.1-SNAPSHOT
+author: ourcg2zb.vmttpnql@y2ybie8q.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

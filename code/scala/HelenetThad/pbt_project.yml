@@ -1,0 +1,17 @@
+name: virginia.thiel
+description: Total
+version: 0.0.1-SNAPSHOT
+author: 73sbqwix.rcc5tevz@7w1epq27.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

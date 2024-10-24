@@ -1,0 +1,17 @@
+name: reba.boehm
+description: multi-tasking
+version: 0.0.1-SNAPSHOT
+author: xpiajkso.ojyitp3k@5zee8gac.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

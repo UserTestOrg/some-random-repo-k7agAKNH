@@ -1,0 +1,17 @@
+name: luana.green
+description: local
+version: 0.0.1-SNAPSHOT
+author: lhacaudt.hhddytg3@0lef5lwj.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

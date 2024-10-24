@@ -1,0 +1,17 @@
+name: kelley.hirthe
+description: Persevering
+version: 0.0.1-SNAPSHOT
+author: jjwmzsr1.xc27tnqc@3w2hbegn.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

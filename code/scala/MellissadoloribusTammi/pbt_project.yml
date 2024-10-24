@@ -1,0 +1,17 @@
+name: hortensia.crooks
+description: toolset
+version: 0.0.1-SNAPSHOT
+author: dcynt9uv.cu2hovwz@nzuiiqul.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: gretta.franecki
+description: Triple-buffered
+version: 0.0.1-SNAPSHOT
+author: eibwdtgr.ax0if2kn@urymlyod.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

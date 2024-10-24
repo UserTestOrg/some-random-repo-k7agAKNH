@@ -1,0 +1,17 @@
+name: jules.renner
+description: emulation
+version: 0.0.1-SNAPSHOT
+author: ibmmbuh8.a5istk9q@6jri3uho.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

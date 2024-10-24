@@ -1,0 +1,17 @@
+name: tracey.marquardt
+description: methodical
+version: 0.0.1-SNAPSHOT
+author: a5b58xkl.oyaootqe@e109oh8c.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

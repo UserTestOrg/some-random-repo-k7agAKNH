@@ -1,0 +1,17 @@
+name: maia.vandervort
+description: multimedia
+version: 0.0.1-SNAPSHOT
+author: ds3by408.lvbp5mq5@qfhltdm9.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: roxie.kovacek
+description: systematic
+version: 0.0.1-SNAPSHOT
+author: wbnichbg.j2p3tut7@apl3pyf3.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: lane.spencer
+description: Profit-focused
+version: 0.0.1-SNAPSHOT
+author: l5mlmtx7.hoyii30k@yjd13ese.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: cody.brakus
+description: Intuitive
+version: 0.0.1-SNAPSHOT
+author: rgum1y5t.u43ddmsz@ceapas1m.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

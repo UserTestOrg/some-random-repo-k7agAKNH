@@ -1,0 +1,28 @@
+name: barbera.steuber
+description: policy
+version: 0.0.1
+author: 0gxommvf.vjeyy9sp@sams7hcx.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Tenesha_PourosTheresa_GreenIrvin_Powlowski:
+    name: Tenesha_PourosTheresa_GreenIrvin_Powlowski
+    description: null
+    author: 0gxommvf.vjeyy9sp@sams7hcx.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 08:39:50'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

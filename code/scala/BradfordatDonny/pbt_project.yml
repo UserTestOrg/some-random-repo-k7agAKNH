@@ -1,0 +1,17 @@
+name: fletcher.farrell
+description: Cloned
+version: 0.0.1-SNAPSHOT
+author: 5caki3sn.9tmbxk8x@mc2yneo0.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

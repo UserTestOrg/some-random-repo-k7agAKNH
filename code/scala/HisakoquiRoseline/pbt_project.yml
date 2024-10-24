@@ -1,0 +1,17 @@
+name: tim.reilly
+description: tangible
+version: 0.0.1-SNAPSHOT
+author: m3et0qhx.aflymze0@agl4lsq5.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

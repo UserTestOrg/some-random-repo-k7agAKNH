@@ -1,0 +1,28 @@
+name: rosendo.rau
+description: secondary
+version: 0.0.1
+author: dksoq2dl.rskxm6ia@ejiiwucv.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Brendon_RogahnMyra_MainesLoreen_Rolfson:
+    name: Brendon_RogahnMyra_MainesLoreen_Rolfson
+    description: null
+    author: dksoq2dl.rskxm6ia@ejiiwucv.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-09 09:30:18'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

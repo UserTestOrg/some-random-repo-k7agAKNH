@@ -1,0 +1,28 @@
+name: gabriele.medhurst
+description: intangible
+version: 0.0.1
+author: gtfc88eh.wbaquipp@zuqbmcxr.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Leland_OlsonMark_A__RoniScott_Champlin_III:
+    name: Leland_OlsonMark_A__RoniScott_Champlin_III
+    description: null
+    author: gtfc88eh.wbaquipp@zuqbmcxr.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 10:16:37'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

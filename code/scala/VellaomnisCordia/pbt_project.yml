@@ -1,0 +1,17 @@
+name: elenore.upton
+description: web-enabled
+version: 0.0.1-SNAPSHOT
+author: 9on950dg.ojxa30ie@unq4niuj.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

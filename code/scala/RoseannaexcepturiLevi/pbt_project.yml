@@ -1,0 +1,28 @@
+name: shelba.frami
+description: Innovative
+version: 0.0.1
+author: wtthcwsv.axsre3d5@tnp1fxmm.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Jacelyn_SchimmelHy_PriceMaudie_McLaughlin:
+    name: Jacelyn_SchimmelHy_PriceMaudie_McLaughlin
+    description: null
+    author: wtthcwsv.axsre3d5@tnp1fxmm.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-02 09:34:50'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

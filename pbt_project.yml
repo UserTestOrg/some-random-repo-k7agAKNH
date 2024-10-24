@@ -1,0 +1,17 @@
+name: fausto.baumbach
+description: Organized
+version: 0.0.1-SNAPSHOT
+author: yw80sbo3.ohgwsh8s@crjr8cbr.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,28 @@
+name: robt.nicolas
+description: global
+version: 0.0.1
+author: bjpnhs7u.satnl8of@ywxcm7ve.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Marshall_CronaSkip_RoperEmmy_Reilly:
+    name: Marshall_CronaSkip_RoperEmmy_Reilly
+    description: null
+    author: bjpnhs7u.satnl8of@ywxcm7ve.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 12:04:57'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

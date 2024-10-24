@@ -1,0 +1,17 @@
+name: donette.mclaughlin
+description: homogeneous
+version: 0.0.1-SNAPSHOT
+author: tym4m39o.exvosmi4@ilazebdo.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

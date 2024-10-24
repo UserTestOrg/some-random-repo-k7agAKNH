@@ -1,0 +1,28 @@
+name: adolph.kemmer
+description: knowledge base
+version: 0.0.1
+author: lue1prif.cm35rzgn@xvv9gsds.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Kirby_ZulaufSandy_C__ShoreMs__Francisco_Dibbert:
+    name: Kirby_ZulaufSandy_C__ShoreMs__Francisco_Dibbert
+    description: null
+    author: lue1prif.cm35rzgn@xvv9gsds.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 12:45:34'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

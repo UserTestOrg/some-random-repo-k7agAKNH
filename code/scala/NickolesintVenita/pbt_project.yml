@@ -1,0 +1,17 @@
+name: edgar.olson
+description: user-facing
+version: 0.0.1-SNAPSHOT
+author: nusa2t16.wtbjarhz@mrsvpo4m.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

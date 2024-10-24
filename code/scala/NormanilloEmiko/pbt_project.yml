@@ -1,0 +1,17 @@
+name: na.daniel
+description: superstructure
+version: 0.0.1-SNAPSHOT
+author: oj3u2chq.wavbfk5m@oohgdndz.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

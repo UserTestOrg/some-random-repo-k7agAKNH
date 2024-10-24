@@ -1,0 +1,17 @@
+name: monte.mayert
+description: Diverse
+version: 0.0.1-SNAPSHOT
+author: h4lmaeqb.7m8k5csg@2kxra6h1.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

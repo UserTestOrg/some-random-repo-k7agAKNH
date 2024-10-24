@@ -1,0 +1,28 @@
+name: juliana.vonrueden
+description: Open-source
+version: 0.0.1
+author: qpiqfwtm.ohncnh22@hswvqawd.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Mittie_UllrichScott_Shawn_DeRocksMiss_Alonzo_Feil:
+    name: Mittie_UllrichScott_Shawn_DeRocksMiss_Alonzo_Feil
+    description: null
+    author: qpiqfwtm.ohncnh22@hswvqawd.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-09 11:19:19'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

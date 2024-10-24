@@ -1,0 +1,17 @@
+name: stacy.johnson
+description: Switchable
+version: 0.0.1-SNAPSHOT
+author: dl0i7vfp.fzgnoyzo@rlqwxqpr.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

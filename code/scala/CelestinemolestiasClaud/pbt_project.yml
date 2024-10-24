@@ -1,0 +1,17 @@
+name: coy.weissnat
+description: application
+version: 0.0.1-SNAPSHOT
+author: pr9xiq3z.pjisb1gk@ospf0r6v.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

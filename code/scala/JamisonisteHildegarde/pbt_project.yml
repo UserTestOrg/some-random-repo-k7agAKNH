@@ -1,0 +1,28 @@
+name: zachery.feil
+description: analyzing
+version: 0.0.1
+author: je7hhtxy.lsfyu0ph@epcylvaf.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Elnora_MooreChip_MunkDian_Cassin_Sr_:
+    name: Elnora_MooreChip_MunkDian_Cassin_Sr_
+    description: null
+    author: je7hhtxy.lsfyu0ph@epcylvaf.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-03 05:31:26'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

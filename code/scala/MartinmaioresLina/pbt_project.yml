@@ -1,0 +1,28 @@
+name: annett.rau
+description: Re-engineered
+version: 0.0.1
+author: 7crt7h0m.o4qjpfij@jb2s0ods.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Emil_Haley_Sr_Sandy_C__ShoreDylan_Wehner:
+    name: Emil_Haley_Sr_Sandy_C__ShoreDylan_Wehner
+    description: null
+    author: 7crt7h0m.o4qjpfij@jb2s0ods.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 09:38:25'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,28 @@
+name: russ.sporer
+description: encompassing
+version: 0.0.1
+author: km28mxke.wn34ttyc@rkuyduem.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Ocie_GerholdSandy_BeechMr__Margurite_Torp:
+    name: Ocie_GerholdSandy_BeechMr__Margurite_Torp
+    description: null
+    author: km28mxke.wn34ttyc@rkuyduem.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 10:33:29'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

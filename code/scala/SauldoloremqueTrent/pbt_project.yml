@@ -1,0 +1,17 @@
+name: wilber.okeefe
+description: Assimilated
+version: 0.0.1-SNAPSHOT
+author: sxo29pwc.cgbqnbcw@uya6kxyf.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

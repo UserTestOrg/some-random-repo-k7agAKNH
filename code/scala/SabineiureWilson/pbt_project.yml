@@ -1,0 +1,28 @@
+name: dirk.lynch
+description: Multi-channelled
+version: 0.0.1
+author: ejnlx4ht.mdfhuy7d@jjwqsssr.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Lonna_HudsonSam_ManillaKaitlin_Kunde:
+    name: Lonna_HudsonSam_ManillaKaitlin_Kunde
+    description: null
+    author: ejnlx4ht.mdfhuy7d@jjwqsssr.com
+    mode: batch
+    language: scala
+    createdAt: '2022-12-28 06:41:30'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

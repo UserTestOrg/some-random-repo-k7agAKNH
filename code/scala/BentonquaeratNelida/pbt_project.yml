@@ -1,0 +1,17 @@
+name: brian.ledner
+description: support
+version: 0.0.1-SNAPSHOT
+author: rmwtarp8.wgp69agj@bglljrwy.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

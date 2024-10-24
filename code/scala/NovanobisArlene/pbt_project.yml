@@ -1,0 +1,17 @@
+name: felton.emard
+description: Expanded
+version: 0.0.1-SNAPSHOT
+author: lthdpl2l.mzit5lah@tgobgjbz.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,28 @@
+name: antonia.howell
+description: hardware
+version: 0.0.1
+author: a0krcys3.m4yvbjlo@rsgqg1ah.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Tandra_GleichnerP__BrainPercy_Ward:
+    name: Tandra_GleichnerP__BrainPercy_Ward
+    description: null
+    author: a0krcys3.m4yvbjlo@rsgqg1ah.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-09 08:46:28'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

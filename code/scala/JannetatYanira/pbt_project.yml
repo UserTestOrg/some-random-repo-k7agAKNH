@@ -1,0 +1,17 @@
+name: nina.bahringer
+description: capacity
+version: 0.0.1-SNAPSHOT
+author: jph2ha2w.7evodgef@y8pxz3e8.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

@@ -1,0 +1,17 @@
+name: nadene.gleason
+description: web-enabled
+version: 0.0.1-SNAPSHOT
+author: bjo6aqkz.civosjuk@bkmvdnck.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

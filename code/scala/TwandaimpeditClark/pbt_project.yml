@@ -1,0 +1,17 @@
+name: stephania.renner
+description: logistical
+version: 0.0.1-SNAPSHOT
+author: e7tdlzhk.t2xxzj9w@tv5i73ha.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

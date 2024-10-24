@@ -1,0 +1,28 @@
+name: cindy.beier
+description: Open-architected
+version: 0.0.1
+author: t7fkrpxi.tbtl0djn@c2zzouuz.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Ms__Ingeborg_SmithamKaty_LitterDr__Rocco_Ullrich:
+    name: Ms__Ingeborg_SmithamKaty_LitterDr__Rocco_Ullrich
+    description: null
+    author: t7fkrpxi.tbtl0djn@c2zzouuz.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-05 08:41:12'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

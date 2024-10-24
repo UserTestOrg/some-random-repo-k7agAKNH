@@ -1,0 +1,17 @@
+name: camelia.spinka
+description: bi-directional
+version: 0.0.1-SNAPSHOT
+author: dvrtdkrs.mdyvkap4@21kxli86.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

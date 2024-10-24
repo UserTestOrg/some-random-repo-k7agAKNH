@@ -1,0 +1,17 @@
+name: ken.oconner
+description: middleware
+version: 0.0.1-SNAPSHOT
+author: qahzl77q.ljlxcqci@njwepiwo.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

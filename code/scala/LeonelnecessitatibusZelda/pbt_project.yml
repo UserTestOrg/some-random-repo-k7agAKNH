@@ -1,0 +1,17 @@
+name: kenisha.hansen
+description: projection
+version: 0.0.1-SNAPSHOT
+author: z9wipyou.cqnivbg5@qzm89qlh.com
+language: scala
+buildSystem: maven
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}

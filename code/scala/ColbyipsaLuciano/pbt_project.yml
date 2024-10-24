@@ -1,0 +1,28 @@
+name: america.nitzsche
+description: Vision-oriented
+version: 0.0.1
+author: q80aozdf.6fwaycc5@rdzbpola.com
+language: scala
+buildSystem: maven
+pipelines:
+  pipelines/Vella_GorczanyJane_LinkfenceBelva_Pouros:
+    name: Vella_GorczanyJane_LinkfenceBelva_Pouros
+    description: null
+    author: q80aozdf.6fwaycc5@rdzbpola.com
+    mode: batch
+    language: scala
+    createdAt: '2023-01-04 21:46:18'
+    datasets:
+      inputs: []
+      outputs: []
+    dependencies: {}
+datasets: {}
+templates: {}
+jobs: {}
+libraries: []
+subgraphs: {}
+sqlModels: {}
+sqlPipeline: null
+dependencies: '[]'
+projectDependencies: {}
+pipelineConfigurations: {}
